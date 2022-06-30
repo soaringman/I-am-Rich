@@ -8,7 +8,7 @@
 // 2 color - 0x03506F
 // 3 color - 0xA3DDCB
 // 4 color - 0xFFE3DE
-
+/*
 import UIKit
 
 class ViewController: UIViewController {
@@ -58,4 +58,16 @@ class ViewController: UIViewController {
 
     }
 }
+*/
 
+import UIKit
+
+class ViewController: UIViewController {
+    
+    
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+    }
+}
